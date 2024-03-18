@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[181],{97:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/OMS-repository-test/blog/tags/hello","allTagsPath":"/OMS-repository-test/blog/tags","count":2,"unlisted":false}')}}]);
